@@ -37,7 +37,7 @@
 <div align="center">
   
 ### :information_source: About Me :
-I am a sophomore Software Engineering Student :computer:.  I have had a passion for technology since a young age. I like to discover new things in the technology field, as I always having a big curiosity about science and technology.
+I am a sophomore Software Engineering Student :computer:.
 </div>
  
 <div align="center">
