@@ -54,8 +54,12 @@ I am a sophomore Software Engineering Student :computer:.
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WaelWM&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WaelWM&count_private=true&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=WaelWM&show_icons=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5"/>
 </div>
 
 <p align="center">
