@@ -65,5 +65,5 @@ I am a sophomore Software Engineering Student :computer:.
 
 <div align="center">
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/playlist/07f4GxwgQTu7fmKUTziMFQ)
 </div>
