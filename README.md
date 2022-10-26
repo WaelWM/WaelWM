@@ -66,9 +66,3 @@ I am a sophomore Software Engineering Student :computer:.
 <img width="800" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" />
 </p>
 
-<div align="center">
-<h3>🎶 Vibing to:</h3>
-<a href="https://open.spotify.com/user/bgxi4zx22jndplongua9sbqed">
-  <img src="https://itstommi.vercel.app/api?theme=dark&scan=true&rainbow=true" alt="Current Spotify Song">
-</a>
-</div>
