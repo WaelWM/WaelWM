@@ -1,10 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif" width="250"/>
 </div>
-<div id="badges" align="center" >
-  <a href="https://www.linkedin.com/in/wael-mohammed9/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a> <br>
+  <div id="badges" align="center" >
   <img  src="https://komarev.com/ghpvc/?username=WaelWM&style=flat-square&color=blue" alt=""/>
   <h1>
   Hello There!
@@ -14,6 +11,22 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
+<div align="center">
+  
+### :information_source: About Me :
+I am a sophomore Software Engineering Student :computer:.
+</div>
+
+
+
+<div id="badges" align="center" >
+
+### Reach me out :
+  <a href="https://www.linkedin.com/in/wael-mohammed9/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+ </div>
 
 <div align="center">
   
@@ -37,12 +50,6 @@
   <img src="https://img.icons8.com/color/344/microsoft-visio-2019.png" title="visio" alt="visio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" title="xd"  alt="xd" width="30" height="30"/>&nbsp;
   <img src="https://play-lh.googleusercontent.com/Su39nteYoXMdmmWupitzo9XKZhZnstj2ObmJOR6S-wWCgSnF6USw3Weo7bcDL4RRv79G" title="Adobe Express" width="30" height="30"/>&nbsp;
-</div>
-
-<div align="center">
-  
-### :information_source: About Me :
-I am a sophomore Software Engineering Student :computer:.
 </div>
  
 <div align="center">
