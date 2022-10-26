@@ -36,7 +36,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode"  alt="vscode" width="30" height="30"/>&nbsp;
   <img src="https://img.icons8.com/color/344/microsoft-visio-2019.png" title="visio" alt="visio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" title="xd"  alt="xd" width="30" height="30"/>&nbsp;
-  <img src="https://img.icons8.com/nolan/344/adobe-creative-cloud.png" title="cloud" width="30" height="30"/>&nbsp;
+  <img src="https://play-lh.googleusercontent.com/Su39nteYoXMdmmWupitzo9XKZhZnstj2ObmJOR6S-wWCgSnF6USw3Weo7bcDL4RRv79G" title="Adobe Express" width="30" height="30"/>&nbsp;
 </div>
 
 <div align="center">
