@@ -65,5 +65,5 @@ I am a sophomore Software Engineering Student :computer:.
 
 <div align="center">
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)]
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)]()
 </div>
