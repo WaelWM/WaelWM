@@ -56,7 +56,7 @@ I am a sophomore Software Engineering Student :computer:.
 
 ### :fire: My Stats :
  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=WaelWM&theme=dark&border_radius=4.7)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=WaelWM&count_private=true&theme=dark&border_radius=4.7)](https://git.io/streak-stats)
 
 </div>
 
@@ -67,7 +67,7 @@ I am a sophomore Software Engineering Student :computer:.
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WaelWM&show_icons=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=WaelWM&count_private=true&show_icons=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5"/>
 </div>
 
 <p align="center">
