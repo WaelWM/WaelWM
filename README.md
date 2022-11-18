@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif" width="250"/> 
+  <img src="https://camo.githubusercontent.com/8af695d05c220ce8f99052778fd1632a08fcffbc88ec868cd5100e9cef0c7ff5/68747470733a2f2f6d656469612e74656e6f722e636f6d2f666c666c433647467a4f38414141414d2f73756c74616e2d616c7265666165692d70726f6772616d6d65722e676966" width="300px"/> 
 </div>
   <div id="badges" align="center" >
   <img  src="https://komarev.com/ghpvc/?username=WaelWM&style=flat-square&color=blue" alt=""/>
@@ -9,7 +9,7 @@
 </h1>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://camo.githubusercontent.com/190338430fb2eca4d172a1987205c5e073b2de72db46cb4ed12cf1c2fa32041a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966" width="600" height="300"/>
 </div>
 
 <div align="center">
