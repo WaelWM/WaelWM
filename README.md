@@ -73,10 +73,6 @@ I am a sophomore Software Engineering Student :computer:.
   <img src="https://github-readme-stats.vercel.app/api?username=WaelWM&count_private=true&show_icons=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5"/>
 </div>
 <br>
-<div align="center">
-
-![Contribution](https://activity-graph.herokuapp.com/graph?username=WaelWM&theme=react-dark&area=true)
-</div>
 
 <p align="center">
 <img width="800" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" />
