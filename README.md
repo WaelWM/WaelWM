@@ -65,7 +65,7 @@ I am a Final Year Software Engineering Student :computer:.
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WaelWM&layout=compact&hide=CSS,HTML&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WaelWM&count_private=true&layout=compact&hide=CSS,HTML&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
