@@ -15,7 +15,7 @@
 <div align="center">
   
 ### :information_source: About Me :
-I am a Software Engineering Student Graduate :computer:.
+I am a Software Engineering Graduate :computer:.
 </div>
 
 <div align="center">
