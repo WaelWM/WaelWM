@@ -1,8 +1,4 @@
-<div id="header" align="center">
-  <img src="https://camo.githubusercontent.com/8af695d05c220ce8f99052778fd1632a08fcffbc88ec868cd5100e9cef0c7ff5/68747470733a2f2f6d656469612e74656e6f722e636f6d2f666c666c433647467a4f38414141414d2f73756c74616e2d616c7265666165692d70726f6772616d6d65722e676966" width="300px"/> 
-</div>
   <div id="badges" align="center" >
-  <img  src="https://komarev.com/ghpvc/?username=WaelWM&style=flat-square&color=blue" alt="" width = "150px"/>
   <h1>
   Hello There!
 </h1>
