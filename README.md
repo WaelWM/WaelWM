@@ -4,9 +4,11 @@
 </h1>
     <img src="https://komarev.com/ghpvc/?username=WaelWM&style=flat-square&color=blue" alt="" width = "150px"/>
     
-<div align="center"/>
+<div align="center">
 
 <img src="https://excelcoders.com/wp-content/uploads/2022/07/android.gif">
+
+<div/>
   
 ### :information_source: About Me :
 I am a Software Engineering Graduate :computer:.
