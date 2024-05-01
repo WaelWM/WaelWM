@@ -7,7 +7,7 @@
 <div align="center">
 
 <div align="center">
-<img src="https://i.pinimg.com/originals/68/ec/b4/68ecb4f6e9ebf64d37454df3541857f6.gif width = "200px">
+<img src="https://i.pinimg.com/originals/68/ec/b4/68ecb4f6e9ebf64d37454df3541857f6.gif width = "200px"/>
   
 ### :information_source: About Me :
 I am a Software Engineering Graduate :computer:.
