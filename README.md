@@ -3,10 +3,10 @@
   Hello There!
 </h1>
     <img  src="https://komarev.com/ghpvc/?username=WaelWM&style=flat-square&color=blue" alt="" width = "150px"/>
-
-    <IMG SRC="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsteamcommunity.com%2Fsharedfiles%2Ffiledetails%2F%3Fid%3D2412448157&psig=AOvVaw1u6_XpxgR7wXmV4-    MqxLnb&ust=1714649979467000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLC2uYqv7IUDFQAAAAAdAAAAABAP">
     
 <div align="center">
+
+ <IMG SRC="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsteamcommunity.com%2Fsharedfiles%2Ffiledetails%2F%3Fid%3D2412448157&psig=AOvVaw1u6_XpxgR7wXmV4-    MqxLnb&ust=1714649979467000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLC2uYqv7IUDFQAAAAAdAAAAABAP">
   
 ### :information_source: About Me :
 I am a Software Engineering Graduate :computer:.
