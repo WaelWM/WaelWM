@@ -5,8 +5,9 @@
     <img src="https://komarev.com/ghpvc/?username=WaelWM&style=flat-square&color=blue" alt="" width = "150px"/>
     
 <div align="center">
-
-<img src="https://i.pinimg.com/originals/68/ec/b4/68ecb4f6e9ebf64d37454df3541857f6.gif width = "200px"/>
+  
+<div align="center">
+<img src="https://i.pinimg.com/originals/68/ec/b4/68ecb4f6e9ebf64d37454df3541857f6.gif/>
   
 ### :information_source: About Me :
 I am a Software Engineering Graduate :computer:.
