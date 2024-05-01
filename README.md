@@ -9,7 +9,6 @@
 <img src="https://excelcoders.com/wp-content/uploads/2022/07/android.gif">
 
 <div/>
-  
 ### :information_source: About Me :
 I am a Software Engineering Graduate :computer:.
 </div>
